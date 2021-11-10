@@ -16,7 +16,9 @@
 
 8 This will be shown in a new branch !  
 
-9 
+9 This line will also be shown in the feature branch
+
+
 
 10 there are two blank lines above 
 
